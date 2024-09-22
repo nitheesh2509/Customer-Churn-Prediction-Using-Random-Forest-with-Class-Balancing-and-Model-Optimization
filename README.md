@@ -61,6 +61,6 @@ pip install -r requirements.txt
    ```
 
 ## Results
-- The final model achieved an accuracy of over 85% on the test set.
+- The final model achieved an accuracy of over 96% on the test set.
 - The confusion matrix and comparison of actual vs predicted values are stored in the output files.
 
