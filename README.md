@@ -45,11 +45,11 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/churn-prediction.git
+   git clone https://github.com/nitheesh2509/Customer-Churn-Prediction-Using-Random-Forest-with-Class-Balancing-and-Model-Optimization.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd churn-prediction
+   cd Customer-Churn-Prediction-Using-Random-Forest-with-Class-Balancing-and-Model-Optimization
    ```
 3. Install the required libraries:
    ```bash
@@ -61,6 +61,6 @@ pip install -r requirements.txt
    ```
 
 ## Results
-- The final model achieved an accuracy of over 96% on the test set.
+- The final model achieved an accuracy of over 85% on the test set.
 - The confusion matrix and comparison of actual vs predicted values are stored in the output files.
 
